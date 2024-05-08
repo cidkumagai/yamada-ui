@@ -1,5 +1,18 @@
 # @yamada-ui/table
 
+## 1.0.32
+
+### Patch Changes
+
+- [#1411](https://github.com/yamada-ui/yamada-ui/pull/1411) [`c519f44`](https://github.com/yamada-ui/yamada-ui/commit/c519f446b2f48471bdf98a7437e5a9b14d595ded) Thanks [@Eiji-Kudo](https://github.com/Eiji-Kudo)! - Integrate omitObject handling with omitThemeProps
+
+- [#1424](https://github.com/yamada-ui/yamada-ui/pull/1424) [`03f65fd`](https://github.com/yamada-ui/yamada-ui/commit/03f65fd68092f7598280ec9e187286a76a62888a) Thanks [@sacky3105](https://github.com/sacky3105)! - Integrate `omitObject` handling with `omitThemeProps`
+
+- Updated dependencies [[`745a925`](https://github.com/yamada-ui/yamada-ui/commit/745a92553bd30c3bdb62062f91be0d85fabcb94f)]:
+  - @yamada-ui/native-table@1.0.27
+  - @yamada-ui/checkbox@1.0.30
+  - @yamada-ui/select@1.2.12
+
 ## 1.0.31
 
 ### Patch Changes

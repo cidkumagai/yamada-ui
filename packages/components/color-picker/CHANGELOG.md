@@ -1,5 +1,12 @@
 # @yamada-ui/color-picker
 
+## 1.2.14
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @yamada-ui/input@1.0.29
+
 ## 1.2.13
 
 ### Patch Changes

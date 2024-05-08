@@ -1,5 +1,11 @@
 # @yamada-ui/file-input
 
+## 1.0.29
+
+### Patch Changes
+
+- [#1436](https://github.com/yamada-ui/yamada-ui/pull/1436) [`b14a15a`](https://github.com/yamada-ui/yamada-ui/commit/b14a15aa52645f7d2c01e83209e08fa5dfda3a61) Thanks [@sacky3105](https://github.com/sacky3105)! - Integrate `omitObject` handling with `omitThemeProps`
+
 ## 1.0.28
 
 ### Patch Changes

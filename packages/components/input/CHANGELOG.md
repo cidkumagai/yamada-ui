@@ -1,5 +1,12 @@
 # @yamada-ui/input
 
+## 1.0.29
+
+### Patch Changes
+
+- Updated dependencies [[`b14a15a`](https://github.com/yamada-ui/yamada-ui/commit/b14a15aa52645f7d2c01e83209e08fa5dfda3a61)]:
+  - @yamada-ui/file-input@1.0.29
+
 ## 1.0.28
 
 ### Patch Changes

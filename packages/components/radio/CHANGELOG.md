@@ -1,5 +1,12 @@
 # @yamada-ui/radio
 
+## 1.0.30
+
+### Patch Changes
+
+- Updated dependencies [[`686a0b6`](https://github.com/yamada-ui/yamada-ui/commit/686a0b6caf0b34512719d61ffd7c7bef96673282)]:
+  - @yamada-ui/use-focus-visible@1.1.0
+
 ## 1.0.29
 
 ### Patch Changes

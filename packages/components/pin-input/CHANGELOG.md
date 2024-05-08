@@ -1,5 +1,14 @@
 # @yamada-ui/pin-input
 
+## 1.0.29
+
+### Patch Changes
+
+- [#1427](https://github.com/yamada-ui/yamada-ui/pull/1427) [`102e26a`](https://github.com/yamada-ui/yamada-ui/commit/102e26ae55e9bfbd98e3d484705d0b92b379a506) Thanks [@hirotomoyamada](https://github.com/hirotomoyamada)! - Changed attribute to `aria-readonly`.
+
+- Updated dependencies [[`659fe11`](https://github.com/yamada-ui/yamada-ui/commit/659fe11b4457c6a2e8be228dd3d47648f759010b)]:
+  - @yamada-ui/use-descendant@1.0.14
+
 ## 1.0.28
 
 ### Patch Changes
